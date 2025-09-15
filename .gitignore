@@ -1,0 +1,11 @@
+# Ignorar archivos y carpetas de base de datos
+postgres_data/
+__pycache__/
+*.pyc
+# Ignorar archivos de configuración de entorno
+.env
+# Ignorar archivos de Docker que no quieras subir
+*.log
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
